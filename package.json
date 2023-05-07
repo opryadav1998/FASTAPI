@@ -5,16 +5,16 @@
     "scripts": {
         "build": "echo \"No build specified\" && exit 1",
         "test": "echo \"No test specified\" && exit 1",
-        "start": "node index.js"10
+        "start": "node index.js"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/opryadav1998/FASTAPI.git"14
+        "url": "git+https://github.com/opryadav1998/FASTAPI.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/opryadav1998/FASTAPI/issues"19
+        "url": "https://github.com/opryadav1998/FASTAPI/issues"
     },
-    "homepage": "https://github.com/opryadav1998/FASTAPI#readme"21
+    "homepage": "https://github.com/opryadav1998/FASTAPI#readme"
 }
